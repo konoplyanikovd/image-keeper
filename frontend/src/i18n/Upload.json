@@ -1,0 +1,10 @@
+{
+    "ru-RU": {
+        "uploadFile": "Загрузить изображение",
+        "dropYourfile": "Положите свой файл сюда, чтобы начать загрузку"
+    },
+    "en-EN": {
+        "uploadFile": "Upload file",
+        "dropYourfile": "Drop your file here to start uploading"
+    }
+}

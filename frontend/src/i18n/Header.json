@@ -1,0 +1,10 @@
+{
+    "ru-RU": {
+        "imagesStoredInKeeper": "изображений в хранилище",
+        "uploadImage": "Загрузить извображение"
+    },
+    "en-EN": {
+        "imagesStoredInKeeper": "images stored in keeper",
+        "uploadImage": "Upload image"
+    }
+}

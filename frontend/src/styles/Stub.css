@@ -1,0 +1,8 @@
+@keyframes stub-pulse {
+    0% { opacity: .6; }
+    50% { opacity: 1; }
+    100% { opacity: .6;}
+}
+.stub-pulse { 
+    animation: stub-pulse 1.5s infinite; 
+}

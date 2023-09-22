@@ -1,0 +1,17 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: postgres:latest
+    environment:
+      POSTGRES_DB: "photobank"
+      POSTGRES_USER: "admin"
+      POSTGRES_PASSWORD: "empty"
+    ports:
+      - "5532:5432"
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8080:8080

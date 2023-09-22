@@ -1,0 +1,16 @@
+{
+    "ru-RU": {
+        "enterCustomLabel": "Введите свою подпись",
+        "setCustomLabel": "Своя подпись",
+        "save": "Сохранить",
+        "closeEditor": "Закрыть редактор",
+        "100CharsMax": "Максимум 100 символов"
+    },
+    "en-EN": {
+        "enterCustomLabel": "Enter custom label",
+        "setCustomLabel": "Set custom label",
+        "save": "Save",
+        "closeEditor": "Close editor",
+        "100CharsMax": "100 chars max"
+    }
+}

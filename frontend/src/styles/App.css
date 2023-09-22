@@ -1,0 +1,75 @@
+.mt-50p {
+  margin-top: 50px;
+}
+.ml-50p {
+  margin-left: 50px;
+}
+.mr-50p {
+  margin-right: 50px;
+}
+.pt-50p {
+  padding-top: 50px;
+}
+.pl-50p {
+  padding-left: 50px;
+}
+.pr-50p {
+  padding-right: 50px;
+}
+.p-15p {
+  padding: 15px;
+}
+.font-inter {
+  font-family: 'Inter', sans-serif;
+}
+.root-size {
+  max-width: 1512px;;
+}
+.color-purple-800 {
+  color: var(--purple-800)
+}
+.color-gray-500 {
+  color: var(--gray-500)
+}
+.text-13 {
+  font-size: 13px;
+}
+.bg-gray-200 {
+  background-color: var(--gray-200)
+}
+.color-gray-200 {
+  color: var(--gray-200)
+}
+.color-gray-900 {
+  color: var(--gray-900)
+}
+.border-gray-200 {
+  border-color: var(--gray-200)
+}
+.rounded-10p { 
+  border-radius: 10px;
+}
+.bg-gray-100 {
+  background-color: var(--gray-100);
+}
+.filter-gray-500 {
+  filter: invert(61%) sepia(20%) saturate(244%) hue-rotate(183deg) brightness(98%) contrast(83%);
+}
+.filter-green-a {
+  filter: invert(94%) sepia(28%) saturate(1104%) hue-rotate(73deg) brightness(92%) contrast(94%);
+}
+.bg-green-a {
+  background-color: var(--green-a);
+}
+.color-green-a {
+  color: var(--green-a);
+}
+.color-red-a {
+  color: var(--red-a);
+}
+.bg-yellow-a {
+  background-color: var(--yellow-a);
+}
+.color-yellow-a {
+  color: var(--yellow-a);
+}

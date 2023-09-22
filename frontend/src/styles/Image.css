@@ -1,0 +1,9 @@
+.image-sizes {
+    min-width: 150px;
+    max-width: 335px;
+    height: 200px;
+}
+.label-sizes {
+    max-width: 84px;
+    max-height: 32px;
+}

@@ -1,0 +1,12 @@
+{
+    "ru-RU": {
+        "noImagesUploadedYet": "Нет загруженных изображений",
+        "uploadImage": "Загрузить изображение",
+        "uploadFirstImage": "Загрузите ваше первое изображение, закинув его сюда или нажав кнопку ниже"
+    },
+    "en-EN": {
+        "noImagesUploadedYet": "No images uploaded yet",
+        "uploadImage": "Upload image",
+        "uploadFirstImage": "Upload your first image by drag and dropping the file on the screen or click the button below"
+    }
+}

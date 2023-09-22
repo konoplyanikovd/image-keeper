@@ -1,0 +1,12 @@
+{
+    "ru-RU": {
+        "download": "Скачать",
+        "editLabel": "Изменить подпись",
+        "delete": "Удалить"
+    },
+    "en-EN": {
+        "download": "Download",
+        "editLabel": "Edit label",
+        "delete": "Delete"
+    }
+}
